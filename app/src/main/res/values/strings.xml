@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Login -->
+    <string name="login_title">Selamat Datang Kembali</string>
+    <string name="login_subtitle">Silakan masuk ke akun Anda untuk melanjutkan</string>
+    <string name="email_hint">Alamat Email</string>
+    <string name="password_hint">Kata Sandi</string>
+    <string name="forgot_password_link">Lupa Kata Sandi?</string>
+    <string name="login_button">Masuk</string>
+    <string name="dont_have_account">Belum punya akun? </string>
+    <string name="register_now">Daftar Sekarang</string>
+
+    <!-- Register -->
+    <string name="register_title">Buat Akun Baru</string>
+    <string name="register_subtitle">Lengkapi data diri Anda untuk mendaftar</string>
+    <string name="full_name_hint">Nama Lengkap</string>
+    <string name="confirm_password_hint">Konfirmasi Kata Sandi</string>
+    <string name="register_button">Daftar</string>
+    <string name="already_have_account">Sudah punya akun? </string>
+    <string name="login_now">Masuk</string>
+
+    <!-- Forgot Password -->
+    <string name="forgot_password_title">Lupa Kata Sandi</string>
+    <string name="forgot_password_subtitle">Masukkan email Anda. Kami akan mengirimkan instruksi untuk me-reset kata sandi Anda.</string>
+    <string name="reset_password_button">Kirim Instruksi Reset</string>
+    <string name="back_to_login">Kembali ke halaman Masuk</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="welcome_user">Halo, Selamat Datang! 👋</string>
+    <string name="user_name">Pengguna Demo</string>
+    <string name="user_email">user@example.com</string>
+    <string name="logout_button">Keluar</string>
+    <string name="stat_balance_title">Total Saldo</string>
+    <string name="stat_balance_value">Rp 12.500.000</string>
+    <string name="stat_tasks_title">Tugas Selesai</string>
+    <string name="stat_tasks_value">24 / 30</string>
+    <string name="stat_notifications_title">Pemberitahuan</string>
+    <string name="stat_notifications_value">5 Baru</string>
+    <string name="stat_points_title">Poin Reward</string>
+    <string name="stat_points_value">1.250 Poin</string>
+
+    <!-- Validation messages -->
+    <string name="err_empty_email">Email tidak boleh kosong</string>
+    <string name="err_empty_password">Kata sandi tidak boleh kosong</string>
+    <string name="err_empty_name">Nama lengkap tidak boleh kosong</string>
+    <string name="err_password_mismatch">Kata sandi dan konfirmasi tidak cocok</string>
+    <string name="msg_reset_link_sent">Instruksi reset kata sandi telah dikirim ke email Anda</string>
+    <string name="msg_register_success">Pendaftaran berhasil! Silakan masuk.</string>
+    <string name="msg_login_success">Berhasil masuk!</string>
+</resources>
